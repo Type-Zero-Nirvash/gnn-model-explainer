@@ -8,7 +8,7 @@
 #
 # Example:
 # * sudo may be optional *
-# sudo docker build --network=host -t nirvash/mumbo .
+# sudo docker build --network=host -t nirvash/gnn .
 
 #####################################################################
 # OPTION TWO
